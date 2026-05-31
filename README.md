@@ -1,5 +1,4 @@
-# Hi!
-I am Maria Eleni Tsiopoulou
+# Hi! I am Maria Eleni Tsiopoulou
 
 <!--
 **marilenatsiopoulou/marilenatsiopoulou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
