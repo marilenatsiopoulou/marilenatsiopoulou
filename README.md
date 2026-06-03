@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Maria Eleni Tsiopoulou</h1>
 
 <p align="center">
   High school student interested in Computer Science, AI, and building apps.
