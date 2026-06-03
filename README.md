@@ -4,9 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Competitive+Programmer;IOI+Olympiad+Participant;AI+Explorer;C%2B%2B+Focused+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Competitive+Programmer;EGOI+Medalist;JBOI+Honourable+Mention;EJOI+Honourable+Mention;C%2B%2B+Focused+Developer;AI+Explorer" />
 </p>
-
 ---
 
 ## 👋 About Me
