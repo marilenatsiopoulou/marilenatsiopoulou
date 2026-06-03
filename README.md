@@ -1,5 +1,12 @@
-# Hi! I am Maria Eleni Tsiopoulou
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
 
+<p align="center">
+  High school student interested in Computer Science, AI, and building apps.
+</p>
+
+<p align="center">
+  I enjoy learning how software works and turning ideas into small projects.
+</p>
 <!--
 **marilenatsiopoulou/marilenatsiopoulou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
