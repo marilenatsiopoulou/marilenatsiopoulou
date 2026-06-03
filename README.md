@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Maria Eleni Tsiopoulou&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=180&section=header&text= Maria Eleni Tsiopoulou &fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- TYPING INTRO -->
