@@ -34,7 +34,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,github,vscode" />
 </p>
 
 ---
@@ -65,7 +65,6 @@
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9013FE,100:4A90E2&height=120&section=footer"/>
 </p>
