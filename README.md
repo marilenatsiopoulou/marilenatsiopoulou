@@ -1,49 +1,51 @@
-<!-- HEADER BANNER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:9013FE&height=220&section=header&text=Maria%20Eleni%20Tsiopoulou&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:9013FE&height=220&section=header&text=Maria%20Eleni%20Tsiopoulou&fontSize=48&fontColor=ffffff&fontAlignY=35" />
 </p>
 
-<!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=High+School+CS+Student;AI+Explorer;App+Developer;Future+Computer+Scientist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Competitive+Programmer;IOI+Olympiad+Participant;AI+Explorer;C%2B%2B+Focused+Developer" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-- 🎓 High school student planning to study Computer Science  
-- 🤖 Interested in Artificial Intelligence and Machine Learning  
-- 📱 Enjoy building apps and small software projects  
-- 🧠 Curious about how real-world systems and AI work  
-- 🚀 Always learning and improving through hands-on projects  
+- 🎓 Student passionate about Computer Science and problem solving  
+- 💻 Strong focus on **competitive programming (C++ main language)**  
+- 🤖 Also interested in Artificial Intelligence and applied ML  
+- 🚀 Enjoy building small projects alongside algorithmic problem solving  
+- 🧠 Motivated by mathematical thinking, algorithms, and systems design  
 
 ---
 
-## 🧰 Tech Stack
+## 🏆 Competitive Programming Achievements
+
+- 🥉 **Bronze Medal – European Girls’ Olympiad in Informatics (EGOI2025)**  
+- 🎖 **Honourable Mention – EGOI2026**  
+- 🇧🇦 **Honourable Mention – Balkan Junior Olympiad in Informatics (JBOI2024)**   
+- 🌍 **Participant – European Junior Olympiad in Informatics (EJOI)**  
+- 📊 Consistent competitor in international-level informatics olympiads  
+
+> Focus: algorithms, data structures, graph theory, combinatorics, and dynamic programming
+
+---
+
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## 📚 Current Focus
 
-- 🐍 Python programming fundamentals  
-- 🌐 Web development (HTML, CSS, JavaScript)  
-- 🤖 Intro to Machine Learning concepts  
-- ⚙️ Git & GitHub workflows  
-- 🧩 Building real-world mini projects  
-
----
-
-## 🎯 Goals
-
-- Build 10+ small but solid projects  
-- Learn fundamentals of AI/ML deeply  
-- Contribute to open source projects  
-- Get into a strong CS program in college  
+- 🧩 Improving problem-solving speed in CP  
+- 📈 Strengthening graph theory and DP  
+- 🤖 Learning fundamentals of machine learning  
+- 💻 Building more structured software projects  
+- 🧠 Preparing for future CS studies  
 
 ---
 
@@ -53,11 +55,11 @@
   <a href="https://github.com/marilenatsiopoulou">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/marilena-tsiopoulou">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:marilenatsiopoulou@outlook.com">
+ <a href="mailto:marilenatsiopoulou@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/marilena-tsiopoulou/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -65,7 +67,7 @@
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9013FE,100:4A90E2&height=120&section=footer"/>
 </p>
 <!--
 **marilenatsiopoulou/marilenatsiopoulou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
