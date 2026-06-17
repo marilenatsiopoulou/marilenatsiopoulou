@@ -24,7 +24,8 @@
 - 🥉 **Bronze Medal – European Girls’ Olympiad in Informatics (EGOI2025)**  
 - 🎖 **Honourable Mention – EGOI2026**  
 - 🇧🇦 **Honourable Mention – Balkan Junior Olympiad in Informatics (JBOI2024)**   
-- 🌍 **Participant – European Junior Olympiad in Informatics (EJOI)**  
+- 🌍 **Participant – European Junior Olympiad in Informatics (EJOI)**
+- 🌍**Participant - European Girls Olympiad in Informatics (EGOI): 2021-2026**
 - 📊 Consistent competitor in international-level informatics olympiads  
 
 > Focus: algorithms, data structures, graph theory, combinatorics, and dynamic programming
@@ -34,7 +35,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,github,vscode,dart,flutter" />
 </p>
 
 ---
